@@ -1,0 +1,32 @@
+//
+//  HF.pch
+//  HF
+//
+//  Created by smallsevenk on 2017/8/10.
+//  Copyright © 2017年 HappinessFamily. All rights reserved.
+//
+
+#ifndef Wallet_pch
+#define Wallet_pch
+
+
+#ifdef __OBJC__
+
+//system
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+//第三方开源库
+#import "UIImageView+WebCache.h"
+#import "Masonry.h"
+#import "MJExtension.h"
+#import "UIView+Toast.h"
+
+#import "CategoryKit.h"
+#import "AppMacro.h"
+#import "ApiMacro.h"
+
+#import "HFNetworking.h"
+
+#endif
+#endif /* HF_pch */

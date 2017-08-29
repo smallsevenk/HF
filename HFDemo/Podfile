@@ -1,0 +1,14 @@
+platform :ios, '8.0'
+
+target “HFDemo” do
+
+pod 'Toast'
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'FLEX'
+pod 'ReactiveObjC'
+
+end
