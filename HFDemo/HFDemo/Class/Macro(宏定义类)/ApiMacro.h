@@ -1,10 +1,10 @@
 
 //
 //  ApiMacro.h
-//  Enfry
+//  HF
 //
-//  Created by Enfry-Zick on 17/4/20.
-//  Copyright © 2017年 enfry. All rights reserved.
+//  Created smallsevenk on 17/4/20.
+//  Copyright © 2017年 HappinessFamily. All rights reserved.
 //
 
 #ifndef ApiMacro_h
@@ -19,7 +19,7 @@
 
 /** 开发环境*/
 #define xApi_appKey     @"IOS"
-#define xApi_appSecret  @"enfry_ios"
+#define xApi_appSecret  @""
 
 /** 产品环境*/
 
@@ -35,8 +35,6 @@
 #pragma mark - 系统接口
 #pragma mark ************************************
 
-//2.3.5.	首页-系统版本号查询(OK)
-#define xApi_CreateOrder                @"CreateOrder"
 
 
 #endif /* ApiMacro_h */
