@@ -2,8 +2,8 @@
 //  UIDevice+CategoryKit.m
 //  CategoryKit
 //
-//  Created by xujun on 13/4/3.
-//  Copyright (c) 2015 xujun. All rights reserved.
+//  Created by smallsevenk on 13/4/3.
+//  Copyright (c) 2015 HappinessFamily. All rights reserved.
 //
 #import "UIDevice+CategoryKit.h"
 #include <sys/socket.h>

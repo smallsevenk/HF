@@ -1,14 +1,14 @@
 //
 //  TwoSubView.m
-//  BBGWallet
+//  HFDemo
 //
 //  Created by Zick.Zhao on 2017/8/18.
 //  Copyright © 2017年 HappinessFamily. All rights reserved.
 //
 
-#import "TwoSubView.h"
+#import "HFSubViewNormal.h"
 
-@implementation TwoSubView
+@implementation HFSubViewNormal
 
 - (instancetype)init{
     if (self = [super init]) {

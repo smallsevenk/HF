@@ -2,8 +2,8 @@
 //  UIBarButtonItem+SLSet.h
 //   
 //
-//  Created by xujun on 14-3-10.
-//  Copyright (c) 2014 xujun. All rights reserved.
+//  Created by smallsevenk on 14-3-10.
+//  Copyright (c) 2014 HappinessFamily. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

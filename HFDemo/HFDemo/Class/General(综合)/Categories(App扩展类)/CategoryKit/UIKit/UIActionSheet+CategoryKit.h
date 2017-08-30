@@ -2,8 +2,8 @@
 //  UIActionSheet+CategoryKit.h
 //  CategoryKit
 //
-//  Created by xujun on 15/7/15.
-//  Copyright (c) 2014 xujun. All rights reserved.
+//  Created by smallsevenk on 15/7/15.
+//  Copyright (c) 2014 HappinessFamily. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

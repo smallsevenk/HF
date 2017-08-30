@@ -1,13 +1,13 @@
 //
 //  HomePayCell.m
-//  BBGWallet
+//  HFDemo
 //
 //  Created by Zick.Zhao on 2017/8/11.
 //  Copyright © 2017年 HappinessFamily. All rights reserved.
 //
 
 #import "HomePayCell.h"
-#import "TwoSubView.h"
+#import "HFSubViewNormal.h"
 
 @interface HomePayCell()
 
@@ -76,7 +76,7 @@
 
 - (UIView *)viewWithIcon:(UIImage *)img text:(NSString *)text index:(int)idx{
     
-    TwoSubView *view = [[TwoSubView alloc] init];
+    HFSubViewNormal *view = [[HFSubViewNormal alloc] init];
     [view setUserInteractionEnabled:NO];
     view.backgroundColor = [UIColor clearColor];
     view.frame = CGRectMake(idx * SCREEN_WIDTH / 3,0,SCREEN_WIDTH / 3,90);

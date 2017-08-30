@@ -2,8 +2,8 @@
 //  CALayer+CategoryKit.m
 //  CategoryKit
 //
-//  Created by xujun on 14/5/10.
-//  Copyright (c) 2015 xujun. All rights reserved.
+//  Created by smallsevenk on 14/5/10.
+//  Copyright (c) 2015 HappinessFamily. All rights reserved.
 //
 
 
@@ -308,11 +308,11 @@
     transition.duration = duration;
     transition.timingFunction = [CAMediaTimingFunction functionWithName:mediaFunction];
     transition.type = kCATransitionFade;
-    [self addAnimation:transition forKey:@"xujunKit.fade"];
+    [self addAnimation:transition forKey:@"smallsevenkKit.fade"];
 }
 
 - (void)removePreviousFadeAnimation {
-    [self removeAnimationForKey:@"xujunKit.fade"];
+    [self removeAnimationForKey:@"smallsevenkKit.fade"];
 }
 
 @end

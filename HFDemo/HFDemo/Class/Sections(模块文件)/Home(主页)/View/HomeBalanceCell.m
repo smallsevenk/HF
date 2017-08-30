@@ -1,6 +1,6 @@
 //
 //  HomeBalanceCell.m
-//  BBGWallet
+//  HFDemo
 //
 //  Created by Zick.Zhao on 2017/8/17.
 //  Copyright © 2017年 HappinessFamily. All rights reserved.
@@ -59,7 +59,7 @@
     
     if (!_leftBgView) {
         
-        _leftBgView = [[TwoSubView alloc] init];
+        _leftBgView = [[HFSubViewNormal alloc] init];
         _leftBgView.backgroundColor = [UIColor whiteColor];
         _leftBgView.frame = CGRectMake(0,2,SCREEN_WIDTH/2 - 1,56);
         
@@ -81,7 +81,7 @@
     
     if (!_rightBgView) {
         
-        _rightBgView = [[TwoSubView alloc] init];
+        _rightBgView = [[HFSubViewNormal alloc] init];
         _rightBgView.backgroundColor = _leftBgView.backgroundColor;
         _rightBgView.frame = CGRectMake(SCREEN_WIDTH - _leftBgView.width,_leftBgView.top,_leftBgView.width,_leftBgView.height);
         

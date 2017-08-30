@@ -1,13 +1,13 @@
 //
 //  HomeOtherCell.m
-//  BBGWallet
+//  HFDemo
 //
 //  Created by Zick.Zhao on 2017/8/17.
 //  Copyright © 2017年 HappinessFamily. All rights reserved.
 //
 
 #import "HomeOtherCell.h"
-#import "TwoSubView.h"
+#import "HFSubViewNormal.h"
 
 #define HOME_OTHER_MAX_COLS 3
 
@@ -84,7 +84,7 @@
             
             NSLog(@"tag:%d",tag);
             
-            TwoSubView *view = [[TwoSubView alloc] init];
+            HFSubViewNormal *view = [[HFSubViewNormal alloc] init];
             view.backgroundColor = [UIColor whiteColor];
             view.frame = CGRectMake((item_width + 2) * j,(item_height + 8) * i,item_width,item_height);
             [self.contentView addSubview:view];

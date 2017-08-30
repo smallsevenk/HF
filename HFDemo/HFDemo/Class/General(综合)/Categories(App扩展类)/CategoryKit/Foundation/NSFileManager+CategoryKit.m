@@ -2,8 +2,8 @@
 //  NSFileManager+CategoryKit.m
 //  CategoryKit
 //
-//  Created by xujun on 15/11/6.
-//  Copyright © 2015年 xujun. All rights reserved.
+//  Created by smallsevenk on 15/11/6.
+//  Copyright © 2015年 HappinessFamily. All rights reserved.
 //
 
 #import "NSFileManager+CategoryKit.h"

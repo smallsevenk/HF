@@ -2,8 +2,8 @@
 //  UIImage+CategoryKit.m
 //  CategoryKit
 //
-//  Created by xujun on 14-4-9.
-//  Copyright (c) 2014 xujun. All rights reserved.
+//  Created by smallsevenk on 14-4-9.
+//  Copyright (c) 2014 HappinessFamily. All rights reserved.
 //
 
 #import "UIImage+CategoryKit.h"

@@ -2,8 +2,8 @@
 //  NSTimer+CategoryKit.m
 //  CategoryKit
 //
-//  Created by xujun on 14/15/11.
-//  Copyright (c) 2015 xujun. All rights reserved.
+//  Created by smallsevenk on 14/15/11.
+//  Copyright (c) 2015 HappinessFamily. All rights reserved.
 //
 #import "NSTimer+CategoryKit.h"
 

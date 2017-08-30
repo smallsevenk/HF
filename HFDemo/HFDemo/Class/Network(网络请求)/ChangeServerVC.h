@@ -1,9 +1,9 @@
 //
 //  ChangeServerViewController.h
-//  ENPlus
+//  HFDemo
 //
-//  Created by Enfry-Zick on 16/12/24.
-//  Copyright © 2016年 Enfry-Zick. All rights reserved.
+//  Created by smallsevenk on 16/12/24.
+//  Copyright © 2016年 HappinessFamily. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

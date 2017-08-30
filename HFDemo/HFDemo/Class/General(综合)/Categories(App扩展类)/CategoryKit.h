@@ -2,8 +2,8 @@
 //  CategoryKit.h
 //  CategoryKit
 //
-//  Created by xujun on 16/7/8.
-//  Copyright © 2016年 xujun. All rights reserved.
+//  Created by smallsevenk on 16/7/8.
+//  Copyright © 2016年 HappinessFamily. All rights reserved.
 //
 
 ///CoreKit

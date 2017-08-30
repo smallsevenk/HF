@@ -1,9 +1,9 @@
 //
 //  UIButton+Additions.m
-//  Kurrent
+//  HFDemo
 //
-//  Created by liangpingxian on 15/7/29.
-//  Copyright (c) 2015年 Kurrent. All rights reserved.
+//  Created by smallsevenk on 15/7/29.
+//  Copyright (c) 2015年 HappinessFamily. All rights reserved.
 //
 
 #import "UIButton+Additions.h"

@@ -2,8 +2,8 @@
 //  UIBezierPath+CategoryKit.h
 //  CategoryKit
 //
-//  Created by xujun on 14/10/30.
-//  Copyright (c) 2015 xujun. All rights reserved.
+//  Created by smallsevenk on 14/10/30.
+//  Copyright (c) 2015 HappinessFamily. All rights reserved.
 //
 #import <UIKit/UIKit.h>
 

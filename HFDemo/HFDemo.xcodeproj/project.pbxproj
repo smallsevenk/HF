@@ -66,7 +66,7 @@
 		A623850F1F554925003A0508 /* UITableViewCell+CategoryKit.m in Sources */ = {isa = PBXBuildFile; fileRef = A623849B1F554924003A0508 /* UITableViewCell+CategoryKit.m */; };
 		A62385101F554925003A0508 /* UITextField+CategoryKit.m in Sources */ = {isa = PBXBuildFile; fileRef = A623849D1F554924003A0508 /* UITextField+CategoryKit.m */; };
 		A62385111F554925003A0508 /* UIView+CategoryKit.m in Sources */ = {isa = PBXBuildFile; fileRef = A623849F1F554924003A0508 /* UIView+CategoryKit.m */; };
-		A62385121F554925003A0508 /* TwoSubView.m in Sources */ = {isa = PBXBuildFile; fileRef = A62384A41F554924003A0508 /* TwoSubView.m */; };
+		A62385121F554925003A0508 /* HFSubViewNormal.m in Sources */ = {isa = PBXBuildFile; fileRef = A62384A41F554924003A0508 /* HFSubViewNormal.m */; };
 		A62385131F554925003A0508 /* ChangeServerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A62384AB1F554924003A0508 /* ChangeServerVC.m */; };
 		A62385141F554925003A0508 /* ResponseInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = A62384AD1F554924003A0508 /* ResponseInfo.m */; };
 		A62385151F554925003A0508 /* ServerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A62384AF1F554924003A0508 /* ServerModel.m */; };
@@ -209,8 +209,8 @@
 		A623849E1F554924003A0508 /* UIView+CategoryKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CategoryKit.h"; sourceTree = "<group>"; };
 		A623849F1F554924003A0508 /* UIView+CategoryKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CategoryKit.m"; sourceTree = "<group>"; };
 		A62384A01F554924003A0508 /* CategoryKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CategoryKit.h; sourceTree = "<group>"; };
-		A62384A31F554924003A0508 /* TwoSubView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoSubView.h; sourceTree = "<group>"; };
-		A62384A41F554924003A0508 /* TwoSubView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoSubView.m; sourceTree = "<group>"; };
+		A62384A31F554924003A0508 /* HFSubViewNormal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HFSubViewNormal.h; sourceTree = "<group>"; };
+		A62384A41F554924003A0508 /* HFSubViewNormal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HFSubViewNormal.m; sourceTree = "<group>"; };
 		A62384A61F554924003A0508 /* ApiMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ApiMacro.h; sourceTree = "<group>"; };
 		A62384A71F554924003A0508 /* AppMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppMacro.h; sourceTree = "<group>"; };
 		A62384AA1F554924003A0508 /* ChangeServerVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChangeServerVC.h; sourceTree = "<group>"; };
@@ -542,8 +542,8 @@
 		A62384A21F554924003A0508 /* Views(公共View) */ = {
 			isa = PBXGroup;
 			children = (
-				A62384A31F554924003A0508 /* TwoSubView.h */,
-				A62384A41F554924003A0508 /* TwoSubView.m */,
+				A62384A31F554924003A0508 /* HFSubViewNormal.h */,
+				A62384A41F554924003A0508 /* HFSubViewNormal.m */,
 			);
 			path = "Views(公共View)";
 			sourceTree = "<group>";
@@ -848,7 +848,7 @@
 				A62385061F554925003A0508 /* UIImage+CategoryKit.m in Sources */,
 				A62384FE1F554925003A0508 /* UIBarButtonItem+CategoryKit.m in Sources */,
 				A623850C1F554925003A0508 /* UIScreen+CategoryKit.m in Sources */,
-				A62385121F554925003A0508 /* TwoSubView.m in Sources */,
+				A62385121F554925003A0508 /* HFSubViewNormal.m in Sources */,
 				A62384F21F554925003A0508 /* NSNumber+CategoryKit.m in Sources */,
 				A623850B1F554925003A0508 /* UINavigationItem+CategoryKit.m in Sources */,
 				A62384F91F554925003A0508 /* NSThread+CategoryKit.m in Sources */,

@@ -1,9 +1,9 @@
 //
 //  UINavigationController+CategoryKit.h
-//  Enfry
+//  HFDemo
 //
-//  Created by xujun on 2017/6/5.
-//  Copyright © 2017年 enfry. All rights reserved.
+//  Created by smallsevenk on 2017/6/5.
+//  Copyright © 2017年 HappinessFamily. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -2,8 +2,8 @@
 //  UIGestureRecognizer+CategoryKit.m
 //  CategoryKit
 //
-//  Created by xujun on 13/10/13.
-//  Copyright (c) 2015 xujun. All rights reserved.
+//  Created by smallsevenk on 13/10/13.
+//  Copyright (c) 2015 HappinessFamily. All rights reserved.
 //
 #import "UIGestureRecognizer+CategoryKit.h"
 #import <objc/runtime.h>

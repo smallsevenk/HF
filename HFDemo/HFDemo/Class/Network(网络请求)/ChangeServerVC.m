@@ -1,9 +1,9 @@
 //
 //  ChangeServerViewController.m
-//  ENPlus
+//  HFDemo
 //
-//  Created by Enfry-Zick on 16/12/24.
-//  Copyright © 2016年 Enfry-Zick. All rights reserved.
+//  Created by smallsevenk on 16/12/24.
+//  Copyright © 2016年 HappinessFamily. All rights reserved.
 //
 
 #import "ChangeServerVC.h"
@@ -133,7 +133,7 @@
 }
 
 + (ServerModel*)basicSever{
-    ServerModel *server = [HFUserDefault xSelfObjectForKey:DefaultServer];
+    ServerModel *server = [HFUserDefault xSelfObjectForKey:HFDefaultServer];
     if (!server)
     {
 
@@ -144,7 +144,7 @@
 #endif
         
         [HFUserDefault xSaveSelfDefineObject:[ChangeServerVC servers][serverIndex]
-                                       forKey:DefaultServer];
+                                       forKey:HFDefaultServer];
     }
     return server;
 }
@@ -154,7 +154,7 @@
     return  [NSMutableArray arrayWithObjects:
              
              [[ServerModel alloc] initWithOwner:@"AppStore"
-                                            url:@"http://g.enfry.com:9080/g/"],
+                                            url:@"http://g.HappinessFamily.com:9080/g/"],
              
              [[ServerModel alloc] initWithOwner:@"开发环境"
                                             url:@"http://192.168.1.32:9080/g/"],
@@ -172,7 +172,7 @@
 }
 
 + (void)changeBasicSever:(ServerModel*)model{
-    [HFUserDefault xSaveSelfDefineObject:model forKey:DefaultServer];
+    [HFUserDefault xSaveSelfDefineObject:model forKey:HFDefaultServer];
 }
 
 

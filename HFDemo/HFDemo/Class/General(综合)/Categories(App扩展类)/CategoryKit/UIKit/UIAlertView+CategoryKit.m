@@ -2,8 +2,8 @@
 //  UIAlertView+CategoryKit.m
 //   
 //
-//  Created by xujun on 14-3-15.
-//  Copyright (c) 2014 xujun. All rights reserved.
+//  Created by smallsevenk on 14-3-15.
+//  Copyright (c) 2014 HappinessFamily. All rights reserved.
 //
 
 #import "UIAlertView+CategoryKit.h"

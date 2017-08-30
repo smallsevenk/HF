@@ -2,8 +2,8 @@
 //  BaseNavigationController.m
 //  BaseUIKit
 //
-//  Created by xujun on 15/8/24.
-//  Copyright (c) 2015年 xujun. All rights reserved.
+//  Created by smallsevenk on 15/8/24.
+//  Copyright (c) 2015年 HappinessFamily. All rights reserved.
 
 
 #import "BaseNavigationController.h"

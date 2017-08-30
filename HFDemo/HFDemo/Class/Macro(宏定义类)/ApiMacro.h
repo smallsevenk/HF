@@ -15,7 +15,7 @@
 #pragma mark -环境配置
 #pragma mark ************************************
 
-#define DefaultServer @"DefaultServer"
+#define HFDefaultServer @"HFDefaultServer"
 
 /** 开发环境*/
 #define xApi_appKey     @"IOS"

@@ -2,8 +2,8 @@
 //  NSNumber+CategoryKit.h
 //  CategoryKit
 //
-//  Created by xujun on 15/8/3.
-//  Copyright (c) 2014 xujun. All rights reserved.
+//  Created by smallsevenk on 15/8/3.
+//  Copyright (c) 2014 HappinessFamily. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

@@ -1,9 +1,9 @@
 //
 //  UIColor+Additions.h
-//  Enfry
+//  HFDemo
 //
-//  Created by liangpingxian on 2017/4/11.
-//  Copyright © 2017年 enfry. All rights reserved.
+//  Created by smallsevenk on 2017/4/11.
+//  Copyright © 2017年 HappinessFamily. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

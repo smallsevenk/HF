@@ -2,8 +2,8 @@
 //  UIScrollView+CategoryKit.m
 //  CategoryKit
 //
-//  Created by xujun on 13/4/5.
-//  Copyright (c) 2015 xujun. All rights reserved.
+//  Created by smallsevenk on 13/4/5.
+//  Copyright (c) 2015 HappinessFamily. All rights reserved.
 //
 #import "UIScrollView+CategoryKit.h"
 

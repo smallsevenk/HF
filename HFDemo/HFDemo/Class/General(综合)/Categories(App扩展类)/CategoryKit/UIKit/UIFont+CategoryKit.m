@@ -2,8 +2,8 @@
 //  UIFont+CategoryKit.m
 //  CategoryKit
 //
-//  Created by xujun on 14/5/11.
-//  Copyright (c) 2015 xujun. All rights reserved.
+//  Created by smallsevenk on 14/5/11.
+//  Copyright (c) 2015 HappinessFamily. All rights reserved.
 //
 #import "UIFont+CategoryKit.h"
 

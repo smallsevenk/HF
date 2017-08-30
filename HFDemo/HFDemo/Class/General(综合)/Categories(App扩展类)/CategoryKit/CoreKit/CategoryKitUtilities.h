@@ -2,8 +2,8 @@
 //  CategoryKitUtilities.h
 //  CategoryKit
 //
-//  Created by xujun on 15/2/28.
-//  Copyright (c) 2015 xujun. All rights reserved.
+//  Created by smallsevenk on 15/2/28.
+//  Copyright (c) 2015 HappinessFamily. All rights reserved.
 //
 #import <UIKit/UIKit.h>
 #import <QuartzCore/QuartzCore.h>
